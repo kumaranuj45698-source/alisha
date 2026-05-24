@@ -1,0 +1,6 @@
+{
+  "name": "Alisha - Be Mine?",
+  "description": "A beautiful, interactive proposal website handcrafted for Alisha, featuring romantic Hinglish shayaris, playful choices, and celebration effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
